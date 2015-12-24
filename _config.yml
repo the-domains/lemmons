@@ -1,0 +1,28 @@
+name: Lemmons
+favicon: null
+layout_spectrum: 0.76792744663544
+typography_spectrum: 0.3044887606520206
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8652761110570282
+  lightness: 0.07027717935852706
+  saturation: 0.22510606399737298
+  rhythmicContrast: 0.2290753189008683
+purpose: []
