@@ -2,6 +2,7 @@ name: Lemmons
 favicon: null
 layout_spectrum: 0.76792744663544
 typography_spectrum: 0.3044887606520206
+title: Lemmons Grid
 cta:
   domain: null
   bucket: null
