@@ -1,29 +1,41 @@
-name: Lemmons
-favicon: null
-layout_spectrum: 0.76792744663544
-typography_spectrum: 0.3044887606520206
 title: Lemmons Grid
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.3512545
+  brandStrength: 0.4910394
+  lightness: 0.07027718
+  brandColors:
+    - '#766E66'
+    - '#ABFBE9'
+    - '#F2B4D7'
+    - '#AC99FA'
+    - '#BD87A4'
+  rhythmicContrast: 0.2290753
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Lemmons
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.8652761110570282
-  lightness: 0.07027717935852706
-  saturation: 0.75
-  rhythmicContrast: 0.2290753189008683
-purpose: []
+typography_spectrum: 0.3044887606520206
+layout_spectrum: 1
